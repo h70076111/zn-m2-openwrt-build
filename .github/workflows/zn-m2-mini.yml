@@ -26,7 +26,7 @@ env:
   CONFIG_FILE: ./config/zn-m2-mini.config
   DIY_P1_SH: ./scripts/zn-m2/diy-part1.sh
   DIY_P2_SH: ./scripts/zn-m2/diy-part2.sh
-  DIY_P3_SH: ./scripts/zn-m2/diy-part4.sh
+  DIY_P4_SH: ./scripts/zn-m2/diy-part4.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
